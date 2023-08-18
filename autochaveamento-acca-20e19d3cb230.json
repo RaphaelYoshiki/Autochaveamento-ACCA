@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "autochaveamento-acca",
+  "private_key_id": "20e19d3cb230cdf66f46b5784a0bb3a324be9ef2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnmcGROENnWJtn\nsOirl2RtPxDdlLewVJHIlttPu4elpZh+wihd9L++zDONdGSnzDIN88I24jvJ4bMq\neL6k2j1tx/tJ4BqYQmHQ1AxpmdqMcZH7mW7ahJaNreRSNwsa479eRH+KtY8PofRA\n9xFICqkG5rHSSufaisWqRzGhoX8tKmY6Ipo7O4dsLABKZ8R0wOsvhiJ/fpe/DrFH\nIVZqf36NxAgNxKR4Dy5YHuN4N3Bxt4TqVU5NTbkTdGte0cpLf39pZ70Cxw/eTkck\n/5DkmTVf4dYN72WE9+CiNlRLxc17mqo36qUXd9SYjJdUIj6EMVCyBQ7hs8cehK8T\nIa2QaEtpAgMBAAECggEAAWn0xfW6bNdkpTrq9ZKfAmRtLx9bbtmBytZJ9pnbhrhX\nSV94MXW4feKxXyS/miJI/FDlfyrIrBbzON0gp5mfOcs9eZWyR71Mn7NAQQ5PF474\nNy4Hz0Bd2EdipRZpibIo6cHMbSZDtRMt0TP8YXYUj7Y3wxFGdDOmP/3eg3FuNhpx\nWF+UQFUb++3YpLgZX0Rr76IJ2PVBqlEZCnlP1FPEt7+nvhk0H5rTSQ22ren5aCcM\n9W0BVH352IkahfwZkz9a7tPgKN8ZEpovzNdOutJLOHzqLto8NBKTa7o/tcLSWW/m\n7duJSaqmwCA/TgQYEWoxD869Qikdi2DxyHANPltksQKBgQDQYOMPkaxQU8Ar/CCz\n9kv9dQ1X1xNkyJYc9xp4fe592/J1mtzn5lArD5oLJIfePJjE/loDcc5vNMXYXHKI\nwvPEKdbO6lqSrVQHowYqSVrFiv8bD4PwbVo4qBya1Hiu6/Y9/hg2qkXNsvpfprTq\nV+B+qi4FMNE5mcHyIm+fwjDLOQKBgQDN5yydg5joekIBxMKJWZFA0ViP2qrsx3eL\np8g3g8J3+dJFS0hocZbHm6JQQGYW7IBXK9bTZVb2v/iwt+Hcms9d3L02rWbI66JC\nRedPR3tOa6gFA29s2L7S9N7j4w7KSOnEI9gJRoCbhJ/Z6CncTRIl5eYr8acEDt2i\ni0B3/5URsQKBgQCClmVVyXYSdRn2trAL9+tRcLym8tttiqNAjb8iCdGfQGqnNyD/\nl39gLQvdtcwMAy++LKReikDTwl/GotEIUhyQL6Q10fpm94a0rn7bm1Luf5g17jhC\nQVWMMhaTFVp4TNnpqcak43qRWXu82+1++wlud9oVWK2WCnzX8KrBlOIdSQKBgCPl\nFikLhP+aOKGYTJWnMKRNGpRReZS3nUaSZFwRMzi5K4f6/M+AZdm8bwpwf5uldSY9\nNUE7HHL9unwMQmqz7kydq7q5df623V2SVCXE/2EHcY4WMDmYe4PJPoYZ0j0/gsk3\nunS7frYd48QYLhwCr5Q9xOeKRCR39vlcL0v8GV+xAoGBALDqUk4XjwYxz115AOSb\ngqewuHkpz/4KVXfy/nTsPV83MvD0qMoEbSgR/UXDh0fS29tSoLlY3rKnu2k/XVji\nL2QwA8cTNX1l8wP3/T+vh9ZxPL8Nsqd6vtRY7xG57nCbFBDtP6Roy1ymjRzF/A3Z\ndTFHnmFl8A82LyGzucBcdMBP\n-----END PRIVATE KEY-----\n",
+  "client_email": "autochaveamentoacca@autochaveamento-acca.iam.gserviceaccount.com",
+  "client_id": "105066308760569744972",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autochaveamentoacca%40autochaveamento-acca.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
